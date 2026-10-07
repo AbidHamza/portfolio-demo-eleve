@@ -1,0 +1,28 @@
+---
+title: "Sauvegarde du portail de l'auto-école"
+date: 2026-10-14
+cadre: "Atelier de professionnalisation"
+resume: "Mise en place d'une sauvegarde quotidienne du site et de sa base, avec un test de restauration."
+competences: [c1, c5]
+---
+
+## Contexte
+
+Qui a demandé quoi, dans quelle organisation, et pourquoi c'était nécessaire.
+
+## Conditions et moyens
+
+Le matériel, les logiciels, seul ou en équipe.
+
+## Description de l'activité
+
+1. Première étape, avec la commande ou le réglage réellement employé.
+2. Deuxième étape.
+
+## Productions et preuves
+
+![Ce que montre la capture]({{ "/images/exemple.png" | relative_url }})
+
+## Ce que j'en retiens
+
+Une difficulté rencontrée et la façon dont vous l'avez réglée.
